@@ -4,6 +4,8 @@
 
 Este proyecto, continuación del de la semana anterior, se intenta llevar a cabo un pequeño ejercicio de reflexión de cuáles son las principales causas de muerte en 4 países del eje norte y como estas muertes están relacionadas con dos indicadores socioeconómicos principales, la renta per cápita y las emisiones de CO2 por parte de esos países. 
 
+![Paises elegidos y causas de muerte princiaples](https://github.com/EdgarAhmed/proyecto_visualizacion/blob/main/pics/Screenshot%202023-11-14%20at%2013.10.26.png)
+
 En el imaginario popular hay varías ideas principales instauradas. 
 
 La primera de ellas, que el cáncer es la primera causa de muerte en nuestra sociedad. El cáncer no tiene ese dudoso honor de ser la primera causa de muerte, ya que es la segunda. La primera causa de muerte a nivel global son las enfermedades cardiovasculares (casi duplican a la segunda). 

@@ -24,4 +24,6 @@ Las conclusiones que podemos ver dentro de este proyecto acaban siendo:
 
 
 ![Renta per cápita y niveles de emisión de CO2](https://github.com/EdgarAhmed/proyecto_visualizacion/blob/main/pics/Screenshot%202023-11-14%20at%2013.12.42.png)
+
+![Número de muertes y porcentaje de muertes por rangos de edad(https://github.com/EdgarAhmed/proyecto_visualizacion/blob/main/pics/Screenshot%202023-11-14%20at%2013.13.00.png)
    

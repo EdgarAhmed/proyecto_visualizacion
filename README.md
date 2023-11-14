@@ -21,4 +21,7 @@ Las conclusiones que podemos ver dentro de este proyecto acaban siendo:
 1.	Los casos de cáncer están disminuyendo en el mundo. 
 2.	Las emisiones de C02 están disminuyendo. 
 3.	La mortalidad en el cáncer disminuye en todos los grupos de edad excepto en los mayores de 70.
+
+
+![Renta per cápita y niveles de emisión de CO2](https://github.com/EdgarAhmed/proyecto_visualizacion/blob/main/pics/Screenshot%202023-11-14%20at%2013.12.42.png)
    
